@@ -5,7 +5,7 @@
 
 **Actuarial foundations. Data science execution. Business impact at scale.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-damekadublin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damekadublin-b50829363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-damekadublin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dameka-dublin)
 [![Email](https://img.shields.io/badge/Email-damekadublin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damekadublin@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Manchester%2C%20UK-34A853?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/DDublin1)
 
@@ -167,7 +167,7 @@ University of Salford        MSc Data Science        2025
 
 **Open to opportunities · Based in Manchester, UK · Available immediately**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damekadublin-b50829363)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dameka-dublin)
 [![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damekadublin@gmail.com)
 
 </div>
