@@ -39,8 +39,8 @@ The result: I think like an analyst, build like an engineer, and communicate lik
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
 
 **Databases & Engineering**
 
@@ -51,8 +51,8 @@ The result: I think like an analyst, build like an engineer, and communicate lik
 **Visualisation & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
-![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=flat-square)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ---
