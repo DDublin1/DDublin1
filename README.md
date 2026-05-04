@@ -62,9 +62,9 @@ The result: I think like an analyst, build like an engineer, and communicate lik
 ### 🔬 Membership Churn Analysis — End-to-End ML Pipeline
 > PySpark · scikit-learn · SHAP · Survival Analysis · Multi-Agent AI · Databricks
 
-Production-scale churn prediction pipeline processing **18.4 million membership records (2.1 GB)** across 60 monthly cohort snapshots. Combines classical ML (XGBoost, Random Forest, Logistic Regression) with survival analysis, SHAP explainability, and a multi-agent AI system that autonomously generates prospective and retrospective churn insights via Claude API + LangChain + vector search. Includes an interactive HTML stakeholder dashboard.
+Production-scale churn prediction pipeline processing **18.4 million membership records (2.1 GB)** across 60 monthly cohort snapshots. Combines classical ML (XGBoost, Random Forest, Logistic Regression) with survival analysis, SHAP explainability, and a multi-agent AI system that autonomously generates prospective and retrospective churn insights via Claude API + FAISS vector search. Includes an interactive HTML stakeholder dashboard.
 
-`Claude API (Anthropic)` `LangChain` `FAISS` `lifelines` `PySpark` `MLflow` `Databricks`
+`Claude API (Anthropic)` `FAISS` `lifelines` `PySpark` `MLflow` `Databricks`
 
 [→ View Repository](https://github.com/DDublin1/membership-churn-analysis)
 
