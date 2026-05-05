@@ -15,11 +15,11 @@
 
 ## About
 
-I build data systems that work at scale — not toy datasets, not tutorials. My work spans **18M-row membership pipelines**, **500k+ record clinical trial analyses**, and **multi-agent AI systems** that generate automated insight from production data.
+I build data systems that work at scale, not toy datasets, not tutorials. My work spans **18M-row membership pipelines**, **500k+ record clinical trial analyses**, and **multi-agent AI systems** that generate automated insight from production data.
 
 My path into data science is unconventional and deliberately so. I started as a **Quantitative Analyst at PartnerRe** modelling capital allocation across portfolios exceeding $5B in gross premiums. I then spent over a decade leading national data strategy at a government level, before returning to technical practice with an **MSc in Data Science (University of Salford, 2025)**.
 
-The result: I think like an analyst, build like an engineer, and communicate like a leader. I don't just model data — I connect it to decisions.
+The result: I think like an analyst, build like an engineer, and communicate like a leader. I don't just model data, I connect it to decisions.
 
 **Currently open to:** Senior Data Scientist · ML Engineer · Data Analyst · Quantitative Analyst roles.
 
@@ -84,7 +84,7 @@ Large-scale SQL analytics on the full ClinicalTrials.gov registry. Analyses tria
 ### 🎮 Steam Game Recommender System
 > PySpark · ALS Collaborative Filtering · MLflow · CrossValidator
 
-Recommendation engine built on the Steam-200k dataset using PySpark's ALS algorithm. Full MLflow experiment tracking, hyperparameter tuning via CrossValidator, and implicit feedback modelling — the complete production-ready pattern for large-scale recommender systems.
+Recommendation engine built on the Steam-200k dataset using PySpark's ALS algorithm. Full MLflow experiment tracking, hyperparameter tuning via CrossValidator, and implicit feedback modelling, the complete production-ready pattern for large-scale recommender systems.
 
 `PySpark` `ALS` `MLflow` `Collaborative Filtering` `Databricks`
 
